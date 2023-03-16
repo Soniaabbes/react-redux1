@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.formtodo {
+  display: flex;
+  justify-content: space-around;
+  margin: 10px;
+  padding : 10px;
+
+
+}
